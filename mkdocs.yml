@@ -15,7 +15,6 @@ theme:
 
 nav:
   - Inicio: index.md
-  - Introducción: intro.md
   - Presentacion Licita: Presentacion.md
   - Formulario de Cotización: FormCotizacion.md
   - Testimonios: Testimonios.md
