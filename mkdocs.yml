@@ -2,10 +2,12 @@ site_name: Herramienta de Ventas
 
 theme:
   name: material
+  logo: logolicita.png    
+  favicon: logolicita.png
   palette:
     - scheme: default
-      primary: lime         
-      accent: light green  
+      primary: lime
+      accent: light green
     - scheme: slate
       primary: lime
       accent: light green
